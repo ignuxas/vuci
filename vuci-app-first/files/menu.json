@@ -1,0 +1,11 @@
+{
+    "other": {
+        "title": "Other",
+        "index": 90
+    },
+    "other/first": {
+        "title": "First Task (Components)",
+        "view": "vuci-app-first",
+        "index": 10
+    }
+}
